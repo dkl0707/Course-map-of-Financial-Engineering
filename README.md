@@ -22,4 +22,4 @@
 对于**编程类课程（银色）**：这类课程相对比较特殊，没有再与其他课程进行进一步的链接，因为他们属于工具类课程，一旦有需要就会使用，比如Matlab，这个应该算是本人上课用的最多的软件，许多建模类课程都会使用。金融工程学生必备技能之一就是编程技能，尤其是量化投资方向。当然这张图里也没有涵盖所有编程语言，例如Stata、SAS、VBA等，因为这些语言有些是为了特定目标服务的，Stata是计量人员常用语言，SAS很多是银行风控部门要求的必备软件，VBA对客户比较友好，因为结果能通过excel进行展现。至于数据结构，他确实没有和其他课程有进一步的联系，但是对于实际编程过程中，对于一些时间、空间上的存储运算等能提供很多方便。
 
 ## Part4:绘制方法
-该图是利用Graphviz进行绘制。官方下载地址为<http://www.graphviz.org/>。如果你想增添或者修改啥内容，可以模仿原本的代码进行增添或修改。另外如果你想看到即时的可视化图片，可以看看[graphviz-visual-editor](http://magjac.com/graphviz-visual-editor/)，对应的[github项目](https://github.com/magjac/graphviz-visual-editor)也可以搜到。
+该图是利用Graphviz进行绘制，图片是svg格式，可以直接用浏览器打开。如果你手机上并不好看，可以通过特定软件转换或者打开浏览器直接截图。Graphviz的官方下载地址为<http://www.graphviz.org/>。如果你想增添或者修改啥内容，可以模仿原本的代码进行增添或修改。另外如果你想看到即时的可视化图片，可以看看[graphviz-visual-editor](http://magjac.com/graphviz-visual-editor/)，对应的[github项目](https://github.com/magjac/graphviz-visual-editor)也可以搜到。
