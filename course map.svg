@@ -1,0 +1,653 @@
+<svg width="521" height="509" viewBox="0 0 390.75 381.75" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="translate(33.56539512126669,267.59647677690157) scale(0.25072378031667186)">
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-616 1294.74,-616 1294.74,4 -4,4"/>
+<!-- 金融工程课程路线 -->
+<g id="node1" class="node">
+<title>金融工程课程路线</title>
+<ellipse fill="#deb887" stroke="black" cx="735.74" cy="-594" rx="68.96" ry="18"/>
+<text text-anchor="middle" x="735.74" y="-589.8" font-family="Times,serif" font-size="14.00">金融工程课程路线</text>
+</g>
+<!-- 高等代数 -->
+<g id="node3" class="node">
+<title>高等代数</title>
+<ellipse fill="#ffa07a" stroke="black" cx="633.74" cy="-306" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="633.74" y="-301.8" font-family="Times,serif" font-size="14.00">高等代数</text>
+</g>
+<!-- 金融工程课程路线&#45;&gt;高等代数 -->
+<g id="edge3" class="edge">
+<title>金融工程课程路线-&gt;高等代数</title>
+<path fill="none" stroke="#000000" d="M712.82,-576.85C701.14,-567.42 687.75,-554.54 679.74,-540 642.67,-472.79 635.19,-380.12 633.86,-334.56"/>
+<polygon fill="#000000" stroke="#000000" points="637.36,-334.22 633.65,-324.29 630.36,-334.36 637.36,-334.22"/>
+</g>
+<!-- 数学分析 -->
+<g id="node5" class="node">
+<title>数学分析</title>
+<ellipse fill="#ffa07a" stroke="black" cx="522.74" cy="-522" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="522.74" y="-517.8" font-family="Times,serif" font-size="14.00">数学分析</text>
+</g>
+<!-- 金融工程课程路线&#45;&gt;数学分析 -->
+<g id="edge2" class="edge">
+<title>金融工程课程路线-&gt;数学分析</title>
+<path fill="none" stroke="#000000" d="M694.67,-579.5C656.94,-567.1 601.32,-548.82 563.64,-536.44"/>
+<polygon fill="#000000" stroke="#000000" points="564.59,-533.07 553.99,-533.27 562.4,-539.72 564.59,-533.07"/>
+</g>
+<!-- 微观经济学 -->
+<g id="node21" class="node">
+<title>微观经济学</title>
+<ellipse fill="#90ee90" stroke="black" cx="735.74" cy="-522" rx="47" ry="18"/>
+<text text-anchor="middle" x="735.74" y="-517.8" font-family="Times,serif" font-size="14.00">微观经济学</text>
+</g>
+<!-- 金融工程课程路线&#45;&gt;微观经济学 -->
+<g id="edge5" class="edge">
+<title>金融工程课程路线-&gt;微观经济学</title>
+<path fill="none" stroke="#000000" d="M735.74,-575.7C735.74,-567.98 735.74,-558.71 735.74,-550.11"/>
+<polygon fill="#000000" stroke="#000000" points="739.24,-550.1 735.74,-540.1 732.24,-550.1 739.24,-550.1"/>
+</g>
+<!-- 财务会计 -->
+<g id="node30" class="node">
+<title>财务会计</title>
+<ellipse fill="#90ee90" stroke="black" cx="840.74" cy="-522" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="840.74" y="-517.8" font-family="Times,serif" font-size="14.00">财务会计</text>
+</g>
+<!-- 金融工程课程路线&#45;&gt;财务会计 -->
+<g id="edge1" class="edge">
+<title>金融工程课程路线-&gt;财务会计</title>
+<path fill="none" stroke="#000000" d="M759.82,-576.94C774.95,-566.86 794.57,-553.78 810.7,-543.02"/>
+<polygon fill="#000000" stroke="#000000" points="812.87,-545.78 819.25,-537.32 808.99,-539.96 812.87,-545.78"/>
+</g>
+<!-- C++ -->
+<g id="node32" class="node">
+<title>C++</title>
+<ellipse fill="#c0c0c0" stroke="black" cx="1045.74" cy="-522" rx="28.24" ry="18"/>
+<text text-anchor="middle" x="1045.74" y="-517.8" font-family="Times,serif" font-size="14.00">C++</text>
+</g>
+<!-- 金融工程课程路线&#45;&gt;C++ -->
+<g id="edge4" class="edge">
+<title>金融工程课程路线-&gt;C++</title>
+<path fill="none" stroke="#000000" d="M786.23,-581.6C848.77,-567.48 953.79,-543.76 1009.11,-531.27"/>
+<polygon fill="#000000" stroke="#000000" points="1010.17,-534.62 1019.16,-529 1008.63,-527.79 1010.17,-534.62"/>
+</g>
+<!-- 读研或就业 -->
+<g id="node2" class="node">
+<title>读研或就业</title>
+<ellipse fill="#deb887" stroke="black" cx="482.74" cy="-18" rx="47" ry="18"/>
+<text text-anchor="middle" x="482.74" y="-13.8" font-family="Times,serif" font-size="14.00">读研或就业</text>
+</g>
+<!-- 数值计算 -->
+<g id="node4" class="node">
+<title>数值计算</title>
+<ellipse fill="#ffa07a" stroke="black" cx="568.74" cy="-234" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="568.74" y="-229.8" font-family="Times,serif" font-size="14.00">数值计算</text>
+</g>
+<!-- 高等代数&#45;&gt;数值计算 -->
+<g id="edge6" class="edge">
+<title>高等代数-&gt;数值计算</title>
+<path fill="none" stroke="#000000" d="M618.99,-289.12C610.51,-279.99 599.71,-268.36 590.29,-258.22"/>
+<polygon fill="#000000" stroke="#000000" points="592.8,-255.77 583.43,-250.82 587.67,-260.53 592.8,-255.77"/>
+</g>
+<!-- 金融时间序列分析 -->
+<g id="node16" class="node">
+<title>金融时间序列分析</title>
+<ellipse fill="#ffff00" stroke="black" cx="277.74" cy="-234" rx="68.96" ry="18"/>
+<text text-anchor="middle" x="277.74" y="-229.8" font-family="Times,serif" font-size="14.00">金融时间序列分析</text>
+</g>
+<!-- 高等代数&#45;&gt;金融时间序列分析 -->
+<g id="edge25" class="edge">
+<title>高等代数-&gt;金融时间序列分析</title>
+<path fill="none" stroke="#000000" d="M597.25,-298.36C544.06,-288.61 442.15,-269.65 355.74,-252 350.08,-250.85 344.2,-249.62 338.32,-248.37"/>
+<polygon fill="#000000" stroke="#000000" points="338.97,-244.93 328.46,-246.26 337.51,-251.77 338.97,-244.93"/>
+</g><g id="edge18" class="edge">
+<title>高等代数-&gt;运筹学</title>
+<path fill="none" stroke="#000000" d="M635.06,-287.87C636.94,-263.67 640.38,-219.21 642.61,-190.39"/>
+<polygon fill="#000000" stroke="#000000" points="646.12,-190.43 643.4,-180.19 639.14,-189.89 646.12,-190.43"/>
+</g>
+<!-- 金融经济学 -->
+<g id="node28" class="node">
+<title>金融经济学</title>
+<ellipse fill="#90ee90" stroke="black" cx="711.74" cy="-234" rx="47" ry="18"/>
+<text text-anchor="middle" x="711.74" y="-229.8" font-family="Times,serif" font-size="14.00">金融经济学</text>
+</g>
+<!-- 高等代数&#45;&gt;金融经济学 -->
+<g id="edge30" class="edge">
+<title>高等代数-&gt;金融经济学</title>
+<path fill="none" stroke="#000000" d="M651.05,-289.46C661.48,-280.11 674.94,-268.02 686.53,-257.62"/>
+<polygon fill="#000000" stroke="#000000" points="689.1,-260.02 694.2,-250.73 684.42,-254.81 689.1,-260.02"/>
+</g>
+<!-- 奇异期权定价 -->
+<g id="node12" class="node">
+<title>奇异期权定价</title>
+<ellipse fill="#ffa07a" stroke="black" cx="539.74" cy="-162" rx="54.49" ry="18"/>
+<text text-anchor="middle" x="539.74" y="-157.8" font-family="Times,serif" font-size="14.00">奇异期权定价</text>
+</g>
+<!-- 数值计算&#45;&gt;奇异期权定价 -->
+<g id="edge7" class="edge">
+<title>数值计算-&gt;奇异期权定价</title>
+<path fill="none" stroke="#000000" d="M561.72,-216.05C558.45,-208.18 554.49,-198.62 550.84,-189.79"/>
+<polygon fill="#000000" stroke="#000000" points="553.95,-188.17 546.89,-180.28 547.49,-190.85 553.95,-188.17"/>
+</g>
+<!-- 概率论与数理统计 -->
+<g id="node6" class="node">
+<title>概率论与数理统计</title>
+<ellipse fill="#ffa07a" stroke="black" cx="388.74" cy="-450" rx="68.96" ry="18"/>
+<text text-anchor="middle" x="388.74" y="-445.8" font-family="Times,serif" font-size="14.00">概率论与数理统计</text>
+</g>
+<!-- 数学分析&#45;&gt;概率论与数理统计 -->
+<g id="edge13" class="edge">
+<title>数学分析-&gt;概率论与数理统计</title>
+<path fill="none" stroke="#000000" d="M497.53,-507.83C477.67,-497.46 449.66,-482.83 427.04,-471.01"/>
+<polygon fill="#000000" stroke="#000000" points="428.51,-467.83 418.03,-466.3 425.27,-474.03 428.51,-467.83"/>
+</g>
+<!-- 常微分方程 -->
+<g id="node7" class="node">
+<title>常微分方程</title>
+<ellipse fill="#ffa07a" stroke="black" cx="522.74" cy="-450" rx="47" ry="18"/>
+<text text-anchor="middle" x="522.74" y="-445.8" font-family="Times,serif" font-size="14.00">常微分方程</text>
+</g>
+<!-- 数学分析&#45;&gt;常微分方程 -->
+<g id="edge10" class="edge">
+<title>数学分析-&gt;常微分方程</title>
+<path fill="none" stroke="#000000" d="M522.74,-503.7C522.74,-495.98 522.74,-486.71 522.74,-478.11"/>
+<polygon fill="#000000" stroke="#000000" points="526.24,-478.1 522.74,-468.1 519.24,-478.1 526.24,-478.1"/>
+</g>
+<!-- 实变函数 -->
+<g id="node9" class="node">
+<title>实变函数</title>
+<ellipse fill="#ffa07a" stroke="black" cx="395.74" cy="-378" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="395.74" y="-373.8" font-family="Times,serif" font-size="14.00">实变函数</text>
+</g>
+<!-- 概率论与数理统计&#45;&gt;实变函数 -->
+<g id="edge14" class="edge">
+<title>概率论与数理统计-&gt;实变函数</title>
+<path fill="none" stroke="#000000" d="M390.47,-431.7C391.24,-423.98 392.16,-414.71 393.02,-406.11"/>
+<polygon fill="#000000" stroke="#000000" points="396.51,-406.4 394.03,-396.1 389.55,-405.71 396.51,-406.4"/>
+</g>
+<!-- 计量经济学 -->
+<g id="node14" class="node">
+<title>计量经济学</title>
+<ellipse fill="#ffff00" stroke="black" cx="207.74" cy="-306" rx="47" ry="18"/>
+<text text-anchor="middle" x="207.74" y="-301.8" font-family="Times,serif" font-size="14.00">计量经济学</text>
+</g>
+<!-- 概率论与数理统计&#45;&gt;计量经济学 -->
+<g id="edge21" class="edge">
+<title>概率论与数理统计-&gt;计量经济学</title>
+<path fill="none" stroke="#000000" d="M367.97,-432.71C335.39,-407.15 272.21,-357.59 235.68,-328.92"/>
+<polygon fill="#000000" stroke="#000000" points="237.46,-325.87 227.43,-322.45 233.14,-331.38 237.46,-325.87"/>
+</g>
+<!-- 偏微分方程 -->
+<g id="node8" class="node">
+<title>偏微分方程</title>
+<ellipse fill="#ffa07a" stroke="black" cx="514.74" cy="-378" rx="47" ry="18"/>
+<text text-anchor="middle" x="514.74" y="-373.8" font-family="Times,serif" font-size="14.00">偏微分方程</text>
+</g>
+<!-- 常微分方程&#45;&gt;偏微分方程 -->
+<g id="edge11" class="edge">
+<title>常微分方程-&gt;偏微分方程</title>
+<path fill="none" stroke="#000000" d="M520.76,-431.7C519.88,-423.98 518.82,-414.71 517.83,-406.11"/>
+<polygon fill="#000000" stroke="#000000" points="521.3,-405.64 516.69,-396.1 514.35,-406.44 521.3,-405.64"/>
+</g>
+<!-- 偏微分方程&#45;&gt;奇异期权定价 -->
+<g id="edge12" class="edge">
+<title>偏微分方程-&gt;奇异期权定价</title>
+<path fill="none" stroke="#000000" d="M513.44,-359.87C511.6,-330.22 509.5,-267.57 519.74,-216 521.48,-207.22 524.51,-197.99 527.69,-189.73"/>
+<polygon fill="#000000" stroke="#000000" points="531.03,-190.82 531.57,-180.24 524.55,-188.17 531.03,-190.82"/>
+</g>
+<!-- 应用随机过程 -->
+<g id="node10" class="node">
+<title>应用随机过程</title>
+<ellipse fill="#ffa07a" stroke="black" cx="408.74" cy="-306" rx="54.49" ry="18"/>
+<text text-anchor="middle" x="408.74" y="-301.8" font-family="Times,serif" font-size="14.00">应用随机过程</text>
+</g>
+<!-- 实变函数&#45;&gt;应用随机过程 -->
+<g id="edge15" class="edge">
+<title>实变函数-&gt;应用随机过程</title>
+<path fill="none" stroke="#000000" d="M398.88,-360.05C400.31,-352.35 402.04,-343.03 403.65,-334.36"/>
+<polygon fill="#000000" stroke="#000000" points="407.14,-334.75 405.53,-324.28 400.26,-333.47 407.14,-334.75"/>
+</g>
+<!-- 金融随机分析 -->
+<g id="node11" class="node">
+<title>金融随机分析</title>
+<ellipse fill="#ffa07a" stroke="black" cx="418.74" cy="-234" rx="54.49" ry="18"/>
+<text text-anchor="middle" x="418.74" y="-229.8" font-family="Times,serif" font-size="14.00">金融随机分析</text>
+</g>
+<!-- 应用随机过程&#45;&gt;金融随机分析 -->
+<g id="edge16" class="edge">
+<title>应用随机过程-&gt;金融随机分析</title>
+<path fill="none" stroke="#000000" d="M411.21,-287.7C412.31,-279.98 413.63,-270.71 414.86,-262.11"/>
+<polygon fill="#000000" stroke="#000000" points="418.34,-262.5 416.29,-252.1 411.41,-261.51 418.34,-262.5"/>
+</g>
+<!-- 金融随机分析&#45;&gt;奇异期权定价 -->
+<g id="edge17" class="edge">
+<title>金融随机分析-&gt;奇异期权定价</title>
+<path fill="none" stroke="#000000" d="M444.69,-217.98C462.32,-207.79 485.82,-194.19 505.05,-183.07"/>
+<polygon fill="#000000" stroke="#000000" points="506.92,-186.03 513.82,-177.99 503.41,-179.97 506.92,-186.03"/>
+</g>
+<!-- 衍生品定价 -->
+<g id="node39" class="node">
+<title>衍生品定价</title>
+<ellipse fill="#add8e6" stroke="black" cx="482.74" cy="-90" rx="47" ry="18"/>
+<text text-anchor="middle" x="482.74" y="-85.8" font-family="Times,serif" font-size="14.00">衍生品定价</text>
+</g>
+<!-- 奇异期权定价&#45;&gt;衍生品定价 -->
+<g id="edge8" class="edge">
+<title>奇异期权定价-&gt;衍生品定价</title>
+<path fill="none" stroke="#000000" d="M526.23,-144.41C519.2,-135.78 510.47,-125.06 502.68,-115.5"/>
+<polygon fill="#000000" stroke="#000000" points="505.18,-113.01 496.15,-107.47 499.75,-117.43 505.18,-113.01"/>
+</g>
+<!-- 微观计量经济学 -->
+<g id="node15" class="node">
+<title>微观计量经济学</title>
+<ellipse fill="#ffff00" stroke="black" cx="61.74" cy="-234" rx="61.97" ry="18"/>
+<text text-anchor="middle" x="61.74" y="-229.8" font-family="Times,serif" font-size="14.00">微观计量经济学</text>
+</g><g id="node13" class="node">
+<title>运筹学</title>
+<ellipse fill="#ffa07a" stroke="black" cx="644.74" cy="-162" rx="32.53" ry="18"/>
+<text text-anchor="middle" x="644.74" y="-157.8" font-family="Times,serif" font-size="14.00">运筹学</text>
+</g>
+<!-- 计量经济学&#45;&gt;微观计量经济学 -->
+<g id="edge33" class="edge">
+<title>计量经济学-&gt;微观计量经济学</title>
+<path fill="none" stroke="#000000" d="M179.59,-291.5C157.4,-280.86 126.18,-265.9 101.45,-254.04"/>
+<polygon fill="#000000" stroke="#000000" points="102.85,-250.83 92.32,-249.66 99.82,-257.14 102.85,-250.83"/>
+</g>
+<!-- 计量经济学&#45;&gt;金融时间序列分析 -->
+<g id="edge22" class="edge">
+<title>计量经济学-&gt;金融时间序列分析</title>
+<path fill="none" stroke="#000000" d="M223.97,-288.76C232.85,-279.88 244.03,-268.71 253.88,-258.85"/>
+<polygon fill="#000000" stroke="#000000" points="256.51,-261.18 261.1,-251.63 251.56,-256.23 256.51,-261.18"/>
+</g>
+<!-- 数据挖掘与统计计算 -->
+<g id="node20" class="node">
+<title>数据挖掘与统计计算</title>
+<ellipse fill="#ffff00" stroke="black" cx="136.74" cy="-162" rx="76.44" ry="18"/>
+<text text-anchor="middle" x="136.74" y="-157.8" font-family="Times,serif" font-size="14.00">数据挖掘与统计计算</text>
+</g><g id="edge19" class="edge">
+<title>运筹学-&gt;量化投资</title>
+<path fill="none" stroke="#000000" d="M644.74,-143.7C644.74,-135.98 644.74,-126.71 644.74,-118.11"/>
+<polygon fill="#000000" stroke="#000000" points="648.24,-118.1 644.74,-108.1 641.24,-118.1 648.24,-118.1"/>
+</g>
+<!-- 计量经济学&#45;&gt;数据挖掘与统计计算 -->
+<g id="edge35" class="edge">
+<title>计量经济学-&gt;数据挖掘与统计计算</title>
+<path fill="none" stroke="#000000" d="M199.31,-288.15C187.1,-263.73 164.37,-218.26 149.92,-189.38"/>
+<polygon fill="#000000" stroke="#000000" points="152.97,-187.65 145.37,-180.27 146.71,-190.78 152.97,-187.65"/>
+</g>
+<!-- 因果推断 -->
+<g id="node38" class="node">
+<title>因果推断</title>
+<ellipse fill="#add8e6" stroke="black" cx="101.74" cy="-90" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="101.74" y="-85.8" font-family="Times,serif" font-size="14.00">因果推断</text>
+</g>
+<!-- 微观计量经济学&#45;&gt;因果推断 -->
+<g id="edge34" class="edge">
+<title>微观计量经济学-&gt;因果推断</title>
+<path fill="none" stroke="#000000" d="M55.14,-215.96C49.07,-197.56 42.32,-167.7 51.74,-144 56.48,-132.06 65.33,-121.25 74.28,-112.56"/>
+<polygon fill="#000000" stroke="#000000" points="76.69,-115.09 81.73,-105.77 71.98,-109.91 76.69,-115.09"/>
+</g>
+<!-- 金融风险定量分析 -->
+<g id="node17" class="node">
+<title>金融风险定量分析</title>
+<ellipse fill="#ffff00" stroke="black" cx="299.74" cy="-162" rx="68.96" ry="18"/>
+<text text-anchor="middle" x="299.74" y="-157.8" font-family="Times,serif" font-size="14.00">金融风险定量分析</text>
+</g>
+<!-- 金融时间序列分析&#45;&gt;金融风险定量分析 -->
+<g id="edge23" class="edge">
+<title>金融时间序列分析-&gt;金融风险定量分析</title>
+<path fill="none" stroke="#000000" d="M283.17,-215.7C285.62,-207.9 288.58,-198.51 291.3,-189.83"/>
+<polygon fill="#000000" stroke="#000000" points="294.7,-190.69 294.36,-180.1 288.02,-188.59 294.7,-190.69"/>
+</g>
+<!-- 金融计算 -->
+<g id="node18" class="node">
+<title>金融计算</title>
+<ellipse fill="#ffff00" stroke="black" cx="426.74" cy="-162" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="426.74" y="-157.8" font-family="Times,serif" font-size="14.00">金融计算</text>
+</g>
+<!-- 金融时间序列分析&#45;&gt;金融计算 -->
+<g id="edge27" class="edge">
+<title>金融时间序列分析-&gt;金融计算</title>
+<path fill="none" stroke="#000000" d="M309.7,-217.98C333.51,-206.8 366.03,-191.52 390.75,-179.9"/>
+<polygon fill="#000000" stroke="#000000" points="392.25,-183.07 399.81,-175.65 389.27,-176.73 392.25,-183.07"/>
+</g>
+<!-- 风险建模 -->
+<g id="node40" class="node">
+<title>风险建模</title>
+<ellipse fill="#add8e6" stroke="black" cx="366.74" cy="-90" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="366.74" y="-85.8" font-family="Times,serif" font-size="14.00">风险建模</text>
+</g>
+<!-- 金融风险定量分析&#45;&gt;风险建模 -->
+<g id="edge24" class="edge">
+<title>金融风险定量分析-&gt;风险建模</title>
+<path fill="none" stroke="#000000" d="M315.61,-144.41C324.16,-135.48 334.85,-124.31 344.24,-114.5"/>
+<polygon fill="#000000" stroke="#000000" points="347.05,-116.63 351.43,-106.99 341.99,-111.79 347.05,-116.63"/>
+</g>
+<!-- 量化投资 -->
+<g id="node41" class="node">
+<title>量化投资</title>
+<ellipse fill="#add8e6" stroke="black" cx="644.74" cy="-90" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="644.74" y="-85.8" font-family="Times,serif" font-size="14.00">量化投资</text>
+</g>
+<!-- 金融计算&#45;&gt;量化投资 -->
+<g id="edge28" class="edge">
+<title>金融计算-&gt;量化投资</title>
+<path fill="none" stroke="#000000" d="M457.64,-150.37C463.95,-148.24 470.55,-146.03 476.74,-144 519.72,-129.91 569.11,-114.41 603.16,-103.84"/>
+<polygon fill="#000000" stroke="#000000" points="604.26,-107.16 612.77,-100.85 602.19,-100.47 604.26,-107.16"/>
+</g>
+<!-- 金融工程应用分析 -->
+<g id="node19" class="node">
+<title>金融工程应用分析</title>
+<ellipse fill="#ffff00" stroke="black" cx="764.74" cy="-162" rx="68.96" ry="18"/>
+<text text-anchor="middle" x="764.74" y="-157.8" font-family="Times,serif" font-size="14.00">金融工程应用分析</text>
+</g>
+<!-- 金融工程应用分析&#45;&gt;量化投资 -->
+<g id="edge32" class="edge">
+<title>金融工程应用分析-&gt;量化投资</title>
+<path fill="none" stroke="#000000" d="M737.81,-145.29C719.87,-134.83 696.2,-121.02 677.23,-109.95"/>
+<polygon fill="#000000" stroke="#000000" points="678.73,-106.78 668.33,-104.76 675.2,-112.83 678.73,-106.78"/>
+</g>
+<!-- 机器学习 -->
+<g id="node44" class="node">
+<title>机器学习</title>
+<ellipse fill="#add8e6" stroke="black" cx="245.74" cy="-90" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="245.74" y="-85.8" font-family="Times,serif" font-size="14.00">机器学习</text>
+</g><g id="edge20" class="edge">
+<title>金融计算-&gt;衍生品定价</title>
+<path fill="none" stroke="#000000" d="M439.72,-144.76C446.62,-136.14 455.24,-125.36 462.95,-115.73"/>
+<polygon fill="#000000" stroke="#000000" points="465.91,-117.63 469.43,-107.63 460.45,-113.26 465.91,-117.63"/>
+</g>
+<!-- 数据挖掘与统计计算&#45;&gt;机器学习 -->
+<g id="edge36" class="edge">
+<title>数据挖掘与统计计算-&gt;机器学习</title>
+<path fill="none" stroke="#000000" d="M161.74,-144.94C177.69,-134.7 198.46,-121.36 215.36,-110.51"/>
+<polygon fill="#000000" stroke="#000000" points="217.27,-113.44 223.8,-105.09 213.49,-107.55 217.27,-113.44"/>
+</g><g id="edge26" class="edge">
+<title>金融计算-&gt;风险建模</title>
+<path fill="none" stroke="#000000" d="M412.82,-144.76C405.25,-135.93 395.73,-124.83 387.32,-115.01"/>
+<polygon fill="#000000" stroke="#000000" points="389.74,-112.46 380.58,-107.15 384.43,-117.02 389.74,-112.46"/>
+</g>
+<!-- 宏观经济学 -->
+<g id="node22" class="node">
+<title>宏观经济学</title>
+<ellipse fill="#90ee90" stroke="black" cx="750.74" cy="-450" rx="47" ry="18"/>
+<text text-anchor="middle" x="750.74" y="-445.8" font-family="Times,serif" font-size="14.00">宏观经济学</text>
+</g>
+<!-- 微观经济学&#45;&gt;宏观经济学 -->
+<g id="edge39" class="edge">
+<title>微观经济学-&gt;宏观经济学</title>
+<path fill="none" stroke="#000000" d="M739.44,-503.7C741.1,-495.98 743.08,-486.71 744.93,-478.11"/>
+<polygon fill="#000000" stroke="#000000" points="748.4,-478.62 747.07,-468.1 741.55,-477.15 748.4,-478.62"/>
+</g>
+<!-- 货币银行学 -->
+<g id="node23" class="node">
+<title>货币银行学</title>
+<ellipse fill="#90ee90" stroke="black" cx="807.74" cy="-378" rx="47" ry="18"/>
+<text text-anchor="middle" x="807.74" y="-373.8" font-family="Times,serif" font-size="14.00">货币银行学</text>
+</g>
+<!-- 宏观经济学&#45;&gt;货币银行学 -->
+<g id="edge40" class="edge">
+<title>宏观经济学-&gt;货币银行学</title>
+<path fill="none" stroke="#000000" d="M764.24,-432.41C771.27,-423.78 780,-413.06 787.79,-403.5"/>
+<polygon fill="#000000" stroke="#000000" points="790.72,-405.43 794.32,-395.47 785.3,-401.01 790.72,-405.43"/>
+</g><g id="edge37" class="edge">
+<title>数据挖掘与统计计算-&gt;风险建模</title>
+<path fill="none" stroke="#000000" d="M181.63,-147.34C223.17,-134.69 284.46,-116.04 324.98,-103.71"/>
+<polygon fill="#000000" stroke="#000000" points="326,-107.06 334.55,-100.8 323.96,-100.36 326,-107.06"/>
+</g>
+<!-- 国际金融学 -->
+<g id="node24" class="node">
+<title>国际金融学</title>
+<ellipse fill="#90ee90" stroke="black" cx="992.74" cy="-306" rx="47" ry="18"/>
+<text text-anchor="middle" x="992.74" y="-301.8" font-family="Times,serif" font-size="14.00">国际金融学</text>
+</g><g id="edge38" class="edge">
+<title>数据挖掘与统计计算-&gt;量化投资</title>
+<path fill="none" stroke="#000000" d="M191.48,-149.35C201.52,-147.41 211.92,-145.54 221.74,-144 361.82,-122.08 398.25,-127.23 538.74,-108 558.21,-105.33 579.63,-101.98 598.09,-98.96"/>
+<polygon fill="#000000" stroke="#000000" points="598.71,-102.4 608.01,-97.32 597.57,-95.49 598.71,-102.4"/>
+</g>
+<!-- 货币银行学&#45;&gt;国际金融学 -->
+
+<!-- 公司理财 -->
+<g id="node25" class="node">
+<title>公司理财</title>
+<ellipse fill="#90ee90" stroke="black" cx="887.74" cy="-306" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="887.74" y="-301.8" font-family="Times,serif" font-size="14.00">公司理财</text>
+</g>
+<!-- 货币银行学&#45;&gt;公司理财 -->
+<g id="edge46" class="edge">
+<title>货币银行学-&gt;公司理财</title>
+<path fill="none" stroke="#000000" d="M825.89,-361.12C836.68,-351.68 850.52,-339.56 862.38,-329.19"/>
+<polygon fill="#000000" stroke="#000000" points="864.98,-331.56 870.2,-322.34 860.37,-326.29 864.98,-331.56"/>
+</g>
+<!-- 固定收益证券分析 -->
+<g id="node26" class="node">
+<title>固定收益证券分析</title>
+<ellipse fill="#90ee90" stroke="black" cx="760.74" cy="-306" rx="68.96" ry="18"/>
+<text text-anchor="middle" x="760.74" y="-301.8" font-family="Times,serif" font-size="14.00">固定收益证券分析</text>
+</g>
+<!-- 货币银行学&#45;&gt;固定收益证券分析 -->
+<g id="edge44" class="edge">
+<title>货币银行学-&gt;固定收益证券分析</title>
+<path fill="none" stroke="#000000" d="M796.6,-360.41C791,-352.08 784.1,-341.8 777.85,-332.49"/>
+<polygon fill="#000000" stroke="#000000" points="780.6,-330.31 772.12,-323.96 774.79,-334.21 780.6,-330.31"/>
+</g>
+<!-- 汇率与国际收支 -->
+<g id="node29" class="node">
+<title>汇率与国际收支</title>
+<ellipse fill="#90ee90" stroke="black" cx="989.74" cy="-234" rx="61.97" ry="18"/>
+<text text-anchor="middle" x="989.74" y="-229.8" font-family="Times,serif" font-size="14.00">汇率与国际收支</text>
+</g><g id="edge41" class="edge">
+<title>货币银行学-&gt;国际金融学</title>
+<path fill="none" stroke="#000000" d="M839.96,-364.81C870.68,-353.18 917.1,-335.62 950.71,-322.9"/>
+<polygon fill="#000000" stroke="#000000" points="952.15,-326.1 960.26,-319.29 949.67,-319.55 952.15,-326.1"/>
+</g>
+<!-- 国际金融学&#45;&gt;汇率与国际收支 -->
+<g id="edge42" class="edge">
+<title>国际金融学-&gt;汇率与国际收支</title>
+<path fill="none" stroke="#000000" d="M991.99,-287.7C991.66,-279.98 991.27,-270.71 990.9,-262.11"/>
+<polygon fill="#000000" stroke="#000000" points="994.39,-261.95 990.47,-252.1 987.4,-262.25 994.39,-261.95"/>
+</g>
+<!-- 公司理财&#45;&gt;金融经济学 -->
+<g id="edge47" class="edge">
+<title>公司理财-&gt;金融经济学</title>
+<path fill="none" stroke="#000000" d="M858.67,-293.44C829.83,-281.97 785.35,-264.28 752.88,-251.36"/>
+<polygon fill="#000000" stroke="#000000" points="753.81,-247.97 743.22,-247.52 751.22,-254.47 753.81,-247.97"/>
+</g>
+<!-- 公司金融 -->
+<g id="node43" class="node">
+<title>公司金融</title>
+<ellipse fill="#add8e6" stroke="black" cx="820.74" cy="-90" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="820.74" y="-85.8" font-family="Times,serif" font-size="14.00">公司金融</text>
+</g>
+<!-- 公司理财&#45;&gt;公司金融 -->
+<g id="edge50" class="edge">
+<title>公司理财-&gt;公司金融</title>
+<path fill="none" stroke="#000000" d="M888.03,-287.56C887.87,-256.89 884.45,-192.03 860.74,-144 855.71,-133.82 848.62,-123.62 841.81,-114.93"/>
+<polygon fill="#000000" stroke="#000000" points="844.47,-112.66 835.44,-107.11 839.05,-117.08 844.47,-112.66"/>
+</g>
+<!-- 金融工程学 -->
+<g id="node27" class="node">
+<title>金融工程学</title>
+<ellipse fill="#90ee90" stroke="black" cx="824.74" cy="-234" rx="47" ry="18"/>
+<text text-anchor="middle" x="824.74" y="-229.8" font-family="Times,serif" font-size="14.00">金融工程学</text>
+</g>
+<!-- 固定收益证券分析&#45;&gt;金融工程学 -->
+<g id="edge45" class="edge">
+<title>固定收益证券分析-&gt;金融工程学</title>
+<path fill="none" stroke="#000000" d="M775.9,-288.41C783.95,-279.61 793.99,-268.63 802.87,-258.92"/>
+<polygon fill="#000000" stroke="#000000" points="805.51,-261.21 809.68,-251.47 800.35,-256.49 805.51,-261.21"/>
+</g>
+<!-- 金融工程学&#45;&gt;奇异期权定价 -->
+<g id="edge9" class="edge">
+<title>金融工程学-&gt;奇异期权定价</title>
+<path fill="none" stroke="#000000" d="M789.28,-221.98C782.17,-219.89 774.74,-217.8 767.74,-216 695.05,-197.26 675.66,-197.78 602.74,-180 598.59,-178.99 594.3,-177.91 589.99,-176.8"/>
+<polygon fill="#000000" stroke="#000000" points="590.55,-173.32 579.99,-174.18 588.78,-180.1 590.55,-173.32"/>
+</g>
+<!-- 金融工程学&#45;&gt;金融工程应用分析 -->
+<g id="edge49" class="edge">
+<title>金融工程学-&gt;金融工程应用分析</title>
+<path fill="none" stroke="#000000" d="M810.82,-216.76C803.35,-208.06 794,-197.15 785.68,-187.43"/>
+<polygon fill="#000000" stroke="#000000" points="788.16,-184.95 778.99,-179.63 782.84,-189.5 788.16,-184.95"/>
+</g>
+<!-- 金融工程学&#45;&gt;量化投资 -->
+<g id="edge29" class="edge">
+<title>金融工程学-&gt;量化投资</title>
+<path fill="none" stroke="#000000" d="M835.37,-216.13C846.07,-196.77 858.86,-165.01 842.74,-144 824.61,-120.38 745.57,-104.99 693.01,-97.17"/>
+<polygon fill="#000000" stroke="#000000" points="693.27,-93.67 682.87,-95.7 692.27,-100.6 693.27,-93.67"/>
+</g>
+<!-- 金融经济学&#45;&gt;金融计算 -->
+<g id="edge48" class="edge">
+<title>金融经济学-&gt;金融计算</title>
+<path fill="none" stroke="#000000" d="M670.65,-225.11C623.48,-215.73 543.96,-198.95 476.74,-180 473.41,-179.06 469.99,-178.04 466.56,-176.96"/>
+<polygon fill="#000000" stroke="#000000" points="467.57,-173.61 456.98,-173.86 465.42,-180.27 467.57,-173.61"/>
+</g>
+<!-- 金融经济学&#45;&gt;金融工程应用分析 -->
+<g id="edge31" class="edge">
+<title>金融经济学-&gt;金融工程应用分析</title>
+<path fill="none" stroke="#000000" d="M724.3,-216.41C730.67,-207.99 738.55,-197.58 745.65,-188.2"/>
+<polygon fill="#000000" stroke="#000000" points="748.65,-190.04 751.9,-179.96 743.07,-185.82 748.65,-190.04"/>
+</g>
+<!-- 经济学模型研究 -->
+<g id="node42" class="node">
+<title>经济学模型研究</title>
+<ellipse fill="#add8e6" stroke="black" cx="1028.74" cy="-90" rx="61.97" ry="18"/>
+<text text-anchor="middle" x="1028.74" y="-85.8" font-family="Times,serif" font-size="14.00">经济学模型研究</text>
+</g>
+<!-- 汇率与国际收支&#45;&gt;经济学模型研究 -->
+
+<!-- 企业财务报表分析 -->
+<g id="node31" class="node">
+<title>企业财务报表分析</title>
+<ellipse fill="#90ee90" stroke="black" cx="1035.74" cy="-378" rx="68.96" ry="18"/>
+<text text-anchor="middle" x="1035.74" y="-373.8" font-family="Times,serif" font-size="14.00">企业财务报表分析</text>
+</g>
+<!-- 财务会计&#45;&gt;企业财务报表分析 -->
+<g id="edge51" class="edge">
+<title>财务会计-&gt;企业财务报表分析</title>
+<path fill="none" stroke="#000000" d="M839.56,-503.95C839.16,-484.14 841.65,-451.64 859.74,-432 885.02,-404.55 923.94,-391.12 958.75,-384.63"/>
+<polygon fill="#000000" stroke="#000000" points="959.65,-388.02 968.92,-382.9 958.48,-381.12 959.65,-388.02"/>
+</g>
+<!-- 企业财务报表分析&#45;&gt;量化投资 -->
+<g id="edge52" class="edge">
+<title>企业财务报表分析-&gt;量化投资</title>
+<path fill="none" stroke="#000000" d="M1045.5,-360.17C1062.29,-328.78 1091.96,-260.43 1060.74,-216 1017.81,-154.92 792.45,-113.55 692.52,-97.94"/>
+<polygon fill="#000000" stroke="#000000" points="692.81,-94.44 682.4,-96.38 691.75,-101.36 692.81,-94.44"/>
+</g>
+<!-- Python -->
+<g id="node33" class="node">
+<title>Python</title>
+<ellipse fill="#c0c0c0" stroke="black" cx="906.74" cy="-450" rx="38.31" ry="18"/>
+<text text-anchor="middle" x="906.74" y="-445.8" font-family="Times,serif" font-size="14.00">Python</text>
+</g>
+<!-- C++&#45;&gt;Python -->
+<g id="edge54" class="edge">
+<title>C++-&gt;Python</title>
+<path fill="none" stroke="#000000" d="M1024.02,-510.06C1001.85,-498.9 967.11,-481.4 941.18,-468.35"/>
+<polygon fill="#000000" stroke="#000000" points="942.57,-465.13 932.07,-463.76 939.43,-471.38 942.57,-465.13"/>
+</g>
+<!-- Matlab -->
+<g id="node34" class="node">
+<title>Matlab</title>
+<ellipse fill="#c0c0c0" stroke="black" cx="1001.74" cy="-450" rx="38.28" ry="18"/>
+<text text-anchor="middle" x="1001.74" y="-445.8" font-family="Times,serif" font-size="14.00">Matlab</text>
+</g>
+<!-- C++&#45;&gt;Matlab -->
+<g id="edge57" class="edge">
+<title>C++-&gt;Matlab</title>
+<path fill="none" stroke="#000000" d="M1035.75,-505.12C1030.45,-496.68 1023.8,-486.1 1017.79,-476.55"/>
+<polygon fill="#000000" stroke="#000000" points="1020.58,-474.4 1012.29,-467.8 1014.65,-478.13 1020.58,-474.4"/>
+</g><g id="edge43" class="edge">
+<title>汇率与国际收支-&gt;经济学模型研究</title>
+<path fill="none" stroke="#000000" d="M994.44,-215.87C1001.12,-191.56 1013.4,-146.82 1021.32,-118.01"/>
+<polygon fill="#000000" stroke="#000000" points="1024.74,-118.76 1024.01,-108.19 1017.99,-116.91 1024.74,-118.76"/>
+</g>
+<!-- VBA -->
+<g id="node35" class="node">
+<title>VBA</title>
+<ellipse fill="#c0c0c0" stroke="black" cx="1089.74" cy="-450" rx="31.35" ry="18"/>
+<text text-anchor="middle" x="1089.74" y="-445.8" font-family="Times,serif" font-size="14.00">VBA</text>
+</g>
+<!-- C++&#45;&gt;VBA -->
+<g id="edge55" class="edge">
+<title>C++-&gt;VBA</title>
+<path fill="none" stroke="#000000" d="M1055.72,-505.12C1061.16,-496.47 1068,-485.58 1074.13,-475.83"/>
+<polygon fill="#000000" stroke="#000000" points="1077.13,-477.64 1079.49,-467.31 1071.2,-473.91 1077.13,-477.64"/>
+</g>
+<!-- R -->
+<g id="node36" class="node">
+<title>R</title>
+<ellipse fill="#c0c0c0" stroke="black" cx="1165.74" cy="-450" rx="27" ry="18"/>
+<text text-anchor="middle" x="1165.74" y="-445.8" font-family="Times,serif" font-size="14.00">R</text>
+</g>
+<!-- C++&#45;&gt;R -->
+<g id="edge56" class="edge">
+<title>C++-&gt;R</title>
+<path fill="none" stroke="#000000" d="M1065.82,-509.28C1085.32,-497.91 1115.11,-480.53 1137.09,-467.71"/>
+<polygon fill="#000000" stroke="#000000" points="1139.11,-470.58 1145.98,-462.52 1135.58,-464.54 1139.11,-470.58"/>
+</g>
+<!-- 数据结构 -->
+<g id="node37" class="node">
+<title>数据结构</title>
+<ellipse fill="#c0c0c0" stroke="black" cx="1250.74" cy="-450" rx="40.01" ry="18"/>
+<text text-anchor="middle" x="1250.74" y="-445.8" font-family="Times,serif" font-size="14.00">数据结构</text>
+</g>
+<!-- C++&#45;&gt;数据结构 -->
+<g id="edge53" class="edge">
+<title>C++-&gt;数据结构</title>
+<path fill="none" stroke="#000000" d="M1070.34,-512.7C1101.09,-502.3 1155.34,-483.93 1201.74,-468 1204.62,-467.01 1207.61,-465.98 1210.61,-464.95"/>
+<polygon fill="#000000" stroke="#000000" points="1211.86,-468.22 1220.16,-461.64 1209.57,-461.6 1211.86,-468.22"/>
+</g>
+<!-- IT岗位 -->
+
+<!-- 数据结构&#45;&gt;IT岗位 -->
+
+<!-- IT岗位&#45;&gt;读研或就业 -->
+
+<!-- 因果推断&#45;&gt;读研或就业 -->
+<g id="edge61" class="edge">
+<title>因果推断-&gt;读研或就业</title>
+<path fill="none" stroke="#000000" d="M138.27,-82.29C206.36,-69.78 352.84,-42.87 431.04,-28.5"/>
+<polygon fill="#000000" stroke="#000000" points="431.95,-31.89 441.15,-26.64 430.68,-25 431.95,-31.89"/>
+</g>
+<!-- 衍生品定价&#45;&gt;读研或就业 -->
+<g id="edge60" class="edge">
+<title>衍生品定价-&gt;读研或就业</title>
+<path fill="none" stroke="#000000" d="M482.74,-71.7C482.74,-63.98 482.74,-54.71 482.74,-46.11"/>
+<polygon fill="#000000" stroke="#000000" points="486.24,-46.1 482.74,-36.1 479.24,-46.1 486.24,-46.1"/>
+</g>
+<!-- 风险建模&#45;&gt;读研或就业 -->
+<g id="edge62" class="edge">
+<title>风险建模-&gt;读研或就业</title>
+<path fill="none" stroke="#000000" d="M389.65,-75.17C406.87,-64.78 430.69,-50.41 449.92,-38.8"/>
+<polygon fill="#000000" stroke="#000000" points="451.91,-41.69 458.67,-33.52 448.3,-35.69 451.91,-41.69"/>
+</g>
+<!-- 量化投资&#45;&gt;读研或就业 -->
+<g id="edge63" class="edge">
+<title>量化投资-&gt;读研或就业</title>
+<path fill="none" stroke="#000000" d="M616.89,-76.97C590.8,-65.69 551.53,-48.73 522.22,-36.06"/>
+<polygon fill="#000000" stroke="#000000" points="523.26,-32.7 512.69,-31.94 520.48,-39.12 523.26,-32.7"/>
+</g>
+<!-- 经济学模型研究&#45;&gt;读研或就业 -->
+<g id="edge59" class="edge">
+<title>经济学模型研究-&gt;读研或就业</title>
+<path fill="none" stroke="#000000" d="M973.38,-81.9C868.3,-68.43 641.14,-39.31 536.95,-25.95"/>
+<polygon fill="#000000" stroke="#000000" points="537.32,-22.47 526.96,-24.67 536.43,-29.41 537.32,-22.47"/>
+</g>
+<!-- 公司金融&#45;&gt;读研或就业 -->
+<!-- 公司金融&#45;&gt;读研或就业 -->
+<!-- 公司金融&#45;&gt;读研或就业 -->
+<g id="edge58" class="edge">
+<title>公司金融-&gt;读研或就业</title>
+<path fill="none" stroke="#000000" d="M785.2,-81.64C724.86,-69.15 602.21,-43.74 533.06,-29.42"/>
+<polygon fill="#000000" stroke="#000000" points="533.76,-25.99 523.26,-27.39 532.35,-32.85 533.76,-25.99"/>
+</g>
+<!-- 机器学习&#45;&gt;读研或就业 -->
+<!-- 机器学习&#45;&gt;读研或就业 -->
+
+
+<!-- 机器学习&#45;&gt;读研或就业 -->
+<g id="edge64" class="edge">
+<title>机器学习-&gt;读研或就业</title>
+<path fill="none" stroke="#000000" d="M278.19,-79.41C319.18,-67.31 389.95,-46.4 436.56,-32.64"/>
+<polygon fill="#000000" stroke="#000000" points="437.81,-35.92 446.4,-29.73 435.82,-29.21 437.81,-35.92"/>
+</g>
+
+
+</g>
+</svg>
