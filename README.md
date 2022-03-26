@@ -1,4 +1,5 @@
 # Course-map-of-Financial-Engineering
+![image](https://github.com/lostcontrol2/Course-map-of-Financial-Engineering/blob/main/course%20map.png)
 ## Part1: 内容简介
 这张图是以对外经济贸易大学金融学院的金融工程系的培养方案为基础创立的课程学习路线，它将课程与课程之间联系起来，并以实际应用为导向告诉你最后能学些啥东西。当然，这里面并没有涵盖全部的课程内容，另外也比较粗糙，有些课程或多或少也会用到其他课程的知识但没画上去。但总体来说，至少对于入学有一段时间却仍不知道该往哪个方向走的同学有一定帮助。
 
